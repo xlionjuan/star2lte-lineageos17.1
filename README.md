@@ -9,6 +9,10 @@ I wanna tried LineageOS 18 before, but it has too many strange problem cause I c
 ## What's Works
 Almost everything except **VoLTE** and **Iris Scanner**.<br>
 But sadly the Samsung Camera has depend on OneUI's framwork, so the qualty of camera sucks. And the video recording only up to **4k30fps**
+## How to bypass SafetyNet and using Google Pay?
+You need to install [Magisk](https://github.com/topjohnwu/Magisk) first. And these two modules:<br>
+* [Universal SafetyNet Fix](https://github.com/kdrag0n/safetynet-fix) (**NO** Setup is required)
+* [MagiskHide Props Config](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf) (Setup is required, follow the instructions in this repository)
 ## Some strange things or something magical
 * The temperature limit of processor has gone! So I can play Genshin Impact on lowest setting
 * You can QuickCharge your device even if your screen is on (Temperature protection of battery still exits, don't worry)
