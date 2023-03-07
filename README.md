@@ -1,4 +1,7 @@
 # star2lte-lineageos17.1
+# This project is no longer updated because of lots of bugs and I have no ability to fix this.
+I recommend to use [Pixel Experience](https://get.pixelexperience.org/star2lte) if you want to get stable ROM.
+<br>
 I build SAMSUNG Galaxy S9+ (Exynos)'s LineageOS 17.1 (Android 10)
 ## Why I did this things?
 Because the offcial LineageOS build for Exynos 9810 isn't continued. But I still want to install LineageOS.<br>
